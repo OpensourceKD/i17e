@@ -1,0 +1,1 @@
+(self.webpackChunkshell=self.webpackChunkshell||[]).push([[654],{2654:(o,a,e)=>{e.r(a),e.d(a,{CRUD_RULES_ROUTES:()=>m,MY_REPORT_ROUTES:()=>R,MY_SALES_ROUTES:()=>E});var n=e(1633);const m=[{path:"",component:n.n,data:{mfeName:"crud-rules"}}],E=[{path:"",component:n.n,data:{mfeName:"my-sales"}}],R=[{path:"",component:n.n,data:{mfeName:"my-report"}}]}}]);
